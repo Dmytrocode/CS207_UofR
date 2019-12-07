@@ -3,6 +3,7 @@
 //CONTROL DEVICE. 
 
 //program modified on 3/10/19 by // by Shubham Shinganapure. 
+//          modified by Dmytro Kavetskyy 04 December 2019.
 //
 //for Gesture controled Robotic Car (remote  )
 

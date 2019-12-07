@@ -1,5 +1,0 @@
-The arduino shield that I bought from amazon does not work with my project. I found out at the last minute while trying to upload code to 
-it.
-
-For this reason, I decided to experiment and connect the two DC motors manually to the Arduino UNO, through a motor Driver L293D
-I followed this guide: https://www.instructables.com/id/Arduino-How-to-Control-DC-Motors-With-L293D-Motor-/

@@ -38,3 +38,5 @@ A preferable updated version of the Arduino IDE is recommended to use the progra
 ### Libraries:
 Please refer to the [Libraries](https://github.com/Dmytrocode/CS207_UofR/tree/master/libraries) Folder for information about the installation and use of libraries needed for this project.
 
+
+## Build

@@ -1,10 +1,15 @@
-CS 207_Final Project
+## CS 207_Final Project
 
 Repository dedicated to my CS 207 Class Electronics Project.
 
 My Final Project for my Computer Science 207 class is a Remote Controlled Robotic Car that I built from scratch.
 
-Components and Materials:
+The project consists of a robotic car that is controllable by a remote control device. These two devices communicate between each other 
+throughout bluetooth. The gesture control device detects the angle it is in, and sends the information over to the robotic car, which
+translates thata data into real life movements and actions. 
+
+
+## Components and Materials:
 
 x1 Arduino UNO & Genuino UNO : https://www.amazon.ca/Arduino-Uno-R3-Microcontroller-ATmega328/dp/B07LD6DTFS/ref=sr_1_5?keywords=arduino+uno&qid=1575682319&sr=8-5
 

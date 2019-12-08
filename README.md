@@ -29,3 +29,8 @@ x1 [L293D Motor Driver](https://www.amazon.ca/Stepper-Driver-Controllers-Channel
 x2 [9V Batteries or similar Power Supply](https://www.amazon.ca/s?k=9v+battery&ref=nb_sb_noss_2)
 
 --------SOLDERING TOOLS AND EQUIPMENT MAY BE NEEDED-------
+
+## Software Requirements
+A preferable updated version of the Arduino IDE is recommended to use the programs.
+
+

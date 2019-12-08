@@ -1,4 +1,4 @@
-## CS 207_Final Project
+# Gesture Control Robotic Car | Final Project CS 207 
 
 Repository dedicated to my CS 207 Class Electronics Project.
 

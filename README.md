@@ -8,6 +8,8 @@ The project consists of a robotic car that is controllable by a remote control d
 throughout bluetooth. The gesture control device detects the angle it is in, and sends the information over to the robotic car, which
 translates thata data into real life movements and actions. 
 
+![Robotic Car](https://scontent-sea1-1.xx.fbcdn.net/v/t1.15752-9/p1080x2048/78495088_1213653742164761_8240465575709507584_n.jpg?_nc_cat=111&_nc_ohc=2qpg5vsrA48AQnPwL7vcgWESdO6lrJABWwtd59kWpdQbJwNytfdJ9sxTA&_nc_ht=scontent-sea1-1.xx&oh=feee6680ce6e3c4ca663cab02313c2a4&oe=5E75A5D6)
+
 
 ## Components and Materials:
 

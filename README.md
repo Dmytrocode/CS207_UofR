@@ -58,6 +58,13 @@ Please refer to the [Libraries](https://github.com/Dmytrocode/CS207_UofR/tree/ma
 #### Click [THIS](https://github.com/Dmytrocode/CS207_UofR/tree/master/Code) link and follow the instructions in the Readme.md
 
 
+### 5. Power on the two Robotic Car and the Remote control device --> Connect the Bluetooth devices, and the It's Ready to Play!
 
+
+REFERENCES: 
+
+## [Source for the Sketch Images](https://www.hackster.io/shubhamsuresh/how-to-make-a-gesture-control-robot-at-home-a3f4a4)
+
+[
 
 

@@ -54,7 +54,8 @@ Please refer to the [Libraries](https://github.com/Dmytrocode/CS207_UofR/tree/ma
 
 <img src="https://hackster.imgix.net/uploads/attachments/999485/gesture_remote.png?auto=compress%2Cformat&w=1280&h=960&fit=max" width="500" height="500">
 
-### 4. 
+### 4. Upload the code in Order to the Bluetooth HC-05 devices, as well as the Arduino itself, and the Nano V3.
+#### Click [THIS](https://github.com/Dmytrocode/CS207_UofR/tree/master/Code) link and follow the instructions in the Readme.md
 
 
 

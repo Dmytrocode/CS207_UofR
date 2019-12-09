@@ -42,12 +42,12 @@ Please refer to the [Libraries](https://github.com/Dmytrocode/CS207_UofR/tree/ma
 ## Build
 
 ### 1. Construct the Frame for the Robotic Car with two wheels, two DC motors, and a power supply
-![img1](https://scontent-sea1-1.xx.fbcdn.net/v/t1.15752-9/78494797_3312434738797523_5229588218680180736_n.jpg?_nc_cat=105&_nc_ohc=Wmmyowh-2XUAQkfVTAIhnOVdvd6BHblDHYFvnI1FBuKaostEpYpb1If6w&_nc_ht=scontent-sea1-1.xx&oh=9d3b826dac54c2658100b910a40d5182&oe=5E7522E4)
+![img1](https://scontent-sea1-1.xx.fbcdn.net/v/t1.15752-9/78494797_3312434738797523_5229588218680180736_n.jpg?_nc_cat=105&_nc_ohc=Wmmyowh-2XUAQkfVTAIhnOVdvd6BHblDHYFvnI1FBuKaostEpYpb1If6w&_nc_ht=scontent-sea1-1.xx&oh=9d3b826dac54c2658100b910a40d5182&oe=5E7522E4 =250x250)
 
 ### 2. Place the top frame base and place the arduino with the motor shield or the circuit on top.
-![img2](https://scontent-sea1-1.xx.fbcdn.net/v/t1.15752-9/p1080x2048/79512413_997824360580263_590444723437568000_n.jpg?_nc_cat=106&_nc_ohc=ppRY-XePCEUAQkztH4D9ARt50iSIMVKDs45V_0pD_kUK3hE0RCahxvLMg&_nc_ht=scontent-sea1-1.xx&oh=4cf458fdeaacb84280ad21d7d61e75d1&oe=5E75C122)
+![img2](https://scontent-sea1-1.xx.fbcdn.net/v/t1.15752-9/p1080x2048/79512413_997824360580263_590444723437568000_n.jpg?_nc_cat=106&_nc_ohc=ppRY-XePCEUAQkztH4D9ARt50iSIMVKDs45V_0pD_kUK3hE0RCahxvLMg&_nc_ht=scontent-sea1-1.xx&oh=4cf458fdeaacb84280ad21d7d61e75d1&oe=5E75C122 =250x250)
 #### Follow the next sketch for the Arduino Robotic Car sketch / circuit: 
-![sketch](https://hackster.imgix.net/uploads/attachments/999484/circuit-page-001.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max)
+![sketch](https://hackster.imgix.net/uploads/attachments/999484/circuit-page-001.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max =90x90)
 
 
 #### 3. Build 

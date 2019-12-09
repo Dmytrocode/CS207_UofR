@@ -47,12 +47,12 @@ Please refer to the [Libraries](https://github.com/Dmytrocode/CS207_UofR/tree/ma
 ### 2. Place the top frame base and place the arduino with the motor shield or the circuit on top.
 <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.15752-9/p1080x2048/79512413_997824360580263_590444723437568000_n.jpg?_nc_cat=106&_nc_ohc=ppRY-XePCEUAQkztH4D9ARt50iSIMVKDs45V_0pD_kUK3hE0RCahxvLMg&_nc_ht=scontent-sea1-1.xx&oh=4cf458fdeaacb84280ad21d7d61e75d1&oe=5E75C122" width="600" height="600">
 #### Follow the next sketch for the Arduino Robotic Car sketch / circuit: 
-<img src="https://hackster.imgix.net/uploads/attachments/999484/circuit-page-001.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max" width="400" height="400">
+<img src="https://hackster.imgix.net/uploads/attachments/999484/circuit-page-001.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max" width="500" height="500">
 
 ### 3. Construct the frame for the Gesture Control Device and follow the sketch
-<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.15752-9/p1080x2048/79529940_574981823315350_677608228556636160_n.jpg?_nc_cat=104&_nc_ohc=EEQAu83dhmUAQkerYhbWbTK8P4vuURWnMQuEhBU94ScCdh67Frcqsd0uA&_nc_ht=scontent-sea1-1.xx&oh=83e6bdef91f1789545c87bad2474f9e0&oe=5E6CEDA7" width="400" height="400">
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.15752-9/p1080x2048/79529940_574981823315350_677608228556636160_n.jpg?_nc_cat=104&_nc_ohc=EEQAu83dhmUAQkerYhbWbTK8P4vuURWnMQuEhBU94ScCdh67Frcqsd0uA&_nc_ht=scontent-sea1-1.xx&oh=83e6bdef91f1789545c87bad2474f9e0&oe=5E6CEDA7" width="600" height="600">
 
-<img src="https://hackster.imgix.net/uploads/attachments/999485/gesture_remote.png?auto=compress%2Cformat&w=1280&h=960&fit=max" width="400" height="400">
+<img src="https://hackster.imgix.net/uploads/attachments/999485/gesture_remote.png?auto=compress%2Cformat&w=1280&h=960&fit=max" width="500" height="500">
 
 ### 4. 
 
